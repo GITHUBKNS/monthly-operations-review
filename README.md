@@ -19,5 +19,5 @@ Branch B achieved the highest net profit and profit margin and received the stro
 
 ## Project Files
 
-- [Completed Excel Analysis](./Monthly_Operations_Review.xlsx)
-- [Explanation of My Process](./Explain_Your_Process.pdf)
+- Completed Excel Analysis
+- Explanation of My Process
