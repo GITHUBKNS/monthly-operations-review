@@ -16,3 +16,8 @@ The Excel workbook includes:
 ## Key Findings
 
 Branch B achieved the highest net profit and profit margin and received the strongest customer feedback. Branch C generated the highest sales but had the lowest profitability because of its high operating costs.
+
+## Project Files
+
+- [Completed Excel Analysis](./Monthly_Operations_Review.xlsx)
+- [Explanation of My Process](./Explain_Your_Process.pdf)
