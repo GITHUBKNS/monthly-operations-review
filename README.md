@@ -14,13 +14,15 @@ The Excel workbook includes:
 - A recommendation for the Process Improvement Plan
 - A bonus calculation showing the effect of reducing Branch C's operating costs by 15%
 
-## Key Findings
+## Key findings
 
-Branch B achieved the strongest overall performance, with the highest net profit of $17,500 and the highest profit margin of 45.45%. It also received the best customer feedback because customers praised its product availability and friendly staff.
+| Branch | Net profit | Profit margin | Customer feedback |
+| --- | ---: | ---: | --- |
+| A | $13,000 | 28.89% | Customers appreciated the service and reported long queues. |
+| B | $17,500 | 45.45% | Customers praised product availability and friendly staff. |
+| C | $4,000 | 7.69% | Customers reported expensive shipping and slow delivery. |
 
-Branch A performed reasonably well, earning a net profit of $13,000 and a profit margin of 28.89%. Customers appreciated its service, although long queues affected the overall experience.
-
-Branch C generated the highest sales but had the lowest profitability because of its high operating costs. It earned a net profit of only $4,000 with a profit margin of 7.69%, while customers also reported expensive shipping and slow delivery.
+Branch C had the highest sales and the lowest profit. Branch B led on profitability and customer feedback.
 
 ## Management Recommendation
 
